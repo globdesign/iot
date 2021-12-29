@@ -2,14 +2,13 @@
 
 Use the https://github.com/globdesign/iot/edit/main/README.md
 
-Whenever you commit to this repo, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages from the content in your Markdown.
+Whenever you commit, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild pages from content in your Markdown.
 
 ### Markdown
 
 # Header 1
 ## Header 2
 ### Header 3
-
 
 1. Numbered
 2. List
